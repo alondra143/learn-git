@@ -1,0 +1,14 @@
+p {
+  font-size: 16px;
+  color: pink;
+  font-family: verdana, sans-serif;
+  padding: 10px 0 10px 0;
+  position: relative;
+  text-align: center;
+}
+#attempt {
+  background: #a91101;
+  color: white;
+  opacity: 60;
+  position: relative;
+}
